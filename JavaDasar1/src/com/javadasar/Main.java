@@ -1,6 +1,8 @@
+package com.javadasar;
+
 public class Main {
     public static void main(String[] args) {
-        System.out.println("keren bingitsss");
+        System.out.println("Keren bingitsss");
     }
     
 }
